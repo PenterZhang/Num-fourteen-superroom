@@ -78,9 +78,6 @@ $.ajax({
         })
     }
 })
-window.onload = function (){
-    
-}
 
 
 

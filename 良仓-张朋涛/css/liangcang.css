@@ -259,15 +259,122 @@ ul,li,a{
   }
 
 
-
-
+.show{
+      width: 1000px;
+      height: 400px;
+      margin: 20px auto;
+      
+      position: relative;
+  }
+.showO{
+    position: absolute;
+    width: 317px;
+    height: 190px;
+    left: 0;
+    top:20px;
+}
+.showT{
+    position: absolute;
+    width: 317px;
+    margin-top: 20px;
+    height: 190px;
+    left: 0;
+    top:220px;
+}
+.showR{
+    position: absolute;
+    width: 318px;
+    height: 403px;
+    margin: 20px;
+    top: 0;
+    left: 325px;
+}
+.showH{
+    position: absolute;
+    width: 317px;
+    margin-top: 20px;
+    height: 190px;
+    top:0;
+    left: 680px;
+}.showF{
+    position: absolute;
+    width: 317px;
+    margin-top: 20px;
+    height: 190px;
+    left: 680px;
+    top:220px;
+}
 .shoppings{
-    width: auto;
-    height: 2000px;
+    margin: 0 auto;
+    width: 75%;
+}
+.shoppings>ul{
+    width: 100%;
+    height: 1150px;
+    margin-left: 30px;
+}
+.shoppings>ul>li{
+    float: left;
+    width: 25%;
+    height:265px;
+    margin: 50px 50px;
+    background-size:100%;
+    cursor: pointer;
+    
+}
+.shoppings>ul>li>div{
+    display: none;
+    background: url(../images/shadow_blk1.png);
+    width: 253px;
+    height: 265px;
+}
+.shoppings>ul>li>div>i{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(12,110,186);
+}
+.shoppings>ul>li>div>h3{
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;    
+    margin-top: 30%;
+    font-size: 14px;
+}  
+.shoppings>ul>li>div>p{
+    color: white;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.shoppings>ul>li:hover div{
+    display: block;
+}
+.more{
+    width: 148px;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    background: url(../images/icon.png) no-repeat 0 -640px;
+}
+.more:hover{
+    background: url(../images/icon.png) no-repeat 0 -690px;
 }
 
 
-  
+
+
+
+
 .service{
     width: 100%;
     height: 248px;
