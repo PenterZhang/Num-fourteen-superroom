@@ -1,0 +1,256 @@
+#foot{
+  width: 100%;
+  min-width: 1000px;
+}
+.foot-box1{
+  border-top: #ededed 1px solid;
+  background: #fbfdfe;
+  margin: 90px auto 0;
+  padding: 51px 0 78px;
+}
+.foot-box1 a{
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  padding-left: 45px;
+  width: 177px;
+  height: 16px;
+  background: url(img/icon.png) no-repeat 45px -417px;
+}
+.hand{
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 27px;
+  height: 15px;
+  overflow: hidden;
+  background: url(img/icon.png) no-repeat -173px -356px;
+}
+.slogen{
+  padding-top: 42px;
+  margin: 0 auto;
+  width: 1000px;
+  overflow: hidden;
+}
+.s-1-1{
+  float: left;
+  height: 60px;
+  width: 56px;
+  background:url(img/icon.png) no-repeat 0 -355px;
+}
+.s-1-2{
+  width: 185px;
+  float: left;
+  height: 60px;
+  padding: 9px 0 0 20px;
+  letter-spacing: 1.2px;
+}
+.chinesetop{
+  width: 100%;
+  height: 24px;
+  line-height: 24px;
+  overflow: hidden;
+  font-size: 14px;
+  color: #737373;
+  text-align: left;
+}
+.english{
+  line-height: 22px;
+  color: #ccc;
+  font-size: 12px;
+}
+.s-2-1{
+  width: 45px;
+  background:url(img/icon.png) no-repeat -153px -217px;
+  float: left;
+  height: 60px;
+}
+.s-2-2{
+  width: 207px;
+  float: left;
+  height: 60px;
+  padding: 9px 0 0 20px;
+  letter-spacing: 1.2px;
+}
+.s-3-1{
+  width: 55px;
+  background:url(img/icon.png) no-repeat -57px -353px;
+  float: left;
+  height: 60px;
+}
+.s-3-2{
+  width: 177px;
+  float: left;
+  height: 60px;
+  padding: 9px 0 0 20px;
+  letter-spacing: 1.2px;
+}
+.s-4-1{
+  width: 57px;
+  background:url(img/icon.png) no-repeat -114px -353px;
+  float: left;
+  height: 60px;
+}
+.s-4-2{
+  width: 138px;
+  float: left;
+  height: 60px;
+  padding: 9px 0 0 20px;
+  overflow: hidden;
+}
+.phonehm{
+  background:url(img/icon.png) no-repeat  0 -434px;
+  width: 117px;
+  height: 24px;
+  line-height: 24px;
+  overflow: hidden;
+  font-size: 14px;
+  color: #737373;
+}
+.foot-box2{
+  height: 222px;
+  border-top: #25292e 1px solid;
+  background: #25292e;
+  color: #5c5c5c;
+}
+.wrap{
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+.f-f{
+  width: 800px;
+  padding-top: 40px;
+  float: left;
+}
+.b-downland{
+  display: block;
+  height: 44px;
+  width: 196px;
+  color: #878787;
+}
+.down-land{
+  position: relative;
+  padding: 0 0 0 60px;
+  width: 136px;
+  height: 44px;
+  background:url(img/icon.png) no-repeat -175px 0;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 2px;
+  line-height: 18px;
+  letter-spacing: 2px;
+}
+.client-down{
+  line-height: 18px;
+  margin-top: 7px;
+}
+.download-code{
+  display: none;
+  position: absolute;
+  width: 283px;
+  top: -148px;
+  height: 190px;
+  left: 0;
+}
+.iphone{
+  float: left;
+  background-color: #fff;
+}
+.iphones{
+  border-right: #d9d9d9 1px solid;
+  background:url(img/icon.png) no-repeat -99px -47px;
+  padding-right: 20px;
+  height: 95px;
+  width: 98px;
+}
+.download-code dd{
+  width: 98px;
+  height: 52px;
+  line-height: 52px;
+  color: #4d4d4d;
+  text-align: center;
+  letter-spacing: 0;
+  font-size: 13px;
+}
+.android{
+  padding-left: 20px;
+  float: left;
+  background-color: #fff;
+}
+.androids{
+  background:url(img/icon.png) no-repeat 0 -47px;
+  height: 95px;
+  width: 98px;
+}
+.friendly{
+  font-size: 12px;
+  letter-spacing: 3px;
+  margin-top: 29px;
+}
+.toplink{
+  margin-bottom: 9px;
+}
+.toplink a{
+  display: inline-block;
+  line-height: 14px;
+  height: 14px;
+  padding: 0 8px 0 10px;
+  color: #5c5c5c;
+  letter-spacing: 3px;
+  background: url(img/icon.png) no-repeat -197px -189px;
+}
+.toplink .t-f{
+  padding-left: 0;
+  background: none;
+}
+.f-r{
+  width: 200px;
+  background: #25292e;
+  float: right;
+}
+.commun{
+  height: 30px;
+  padding: 45px 0 0;
+}
+.commun li{
+  float: right;
+  height: 30px;
+  margin-left: 27px;
+  position: relative;
+}
+.commun a{
+  overflow: hidden;
+  display: block;
+  height: 20px;
+  opacity: 0.2;
+  text-align: right;
+}
+.douban{
+  width: 18px;
+  background:url(img/icon.png) no-repeat -129px -25px;
+}
+.sina{
+  width: 23px;
+  background:url(img/icon.png) no-repeat -150px -23px;
+  overflow: hidden;
+}
+.weixin{
+  width: 26px;
+  background:url(img/icon.png) no-repeat -100px -23px;
+}
+.weixin-code{
+  display: none;
+  width: 145px;
+  overflow: hidden;
+  height: 194px;
+  position: absolute;
+  top: -191px;
+  left: -60px;
+}
+.weixin-code p{
+  display: block;
+  width: 145px;
+  height: 145px;
+  background:url(img/icon.png) no-repeat 0 -148px;
+}

@@ -1,0 +1,157 @@
+*{margin: 0;padding: 0;}
+ul li{list-style-type: none;float: left;}
+a{text-decoration:none;}
+i{font-style:normal;}
+body,html{width: 100%;height: 100%;}
+#totop{
+  display: none;
+  height: auto;
+  width: 60px;
+  position: fixed;
+  right: 44px;
+  bottom: 44px;
+  cursor:pointer;
+}
+#totop a{
+  width: 59px;
+  height: 59px;
+  display: block;
+  background:url(img/icon.png) no-repeat -20px -813px;
+  position: relative;
+}
+#lianxikefu{
+  position: fixed;
+  bottom: 13px;
+  right: 27px;
+}
+#lianxikefu a{
+  background-color: #5b799a;
+  display: block;
+  color: #fff;
+  width: 90px;
+  height: 30px;
+  border-radius: 4px;
+  font-size: 13px;
+  overflow: hidden;
+}
+#lianxikefu img{
+  width: 23px;
+  height: 23px;
+  border-radius: 50%;
+  float: left;
+  margin: 2px;
+  margin-top: 4px;
+}
+#lianxikefu i{
+  display: block;
+  line-height: 30px;
+}
+
+
+#hbody{
+  width: 1000px;
+  margin: 0 auto;
+  color: #666;
+}
+.shopingstep{
+  width: 100%;
+  color: #333;
+  vertical-align: middle;
+  padding: 50px 0px 10px 0px;
+  height: 32px;
+  text-align: center;
+  font-size: 14px;
+}
+.item{
+  width: auto;
+  height: 30px;
+  display: inline-block;
+  line-height: 30px;
+}
+.txt{
+  width: 135px;
+  height: 20px;
+  display: block;
+}
+.chk{
+  color: #6393b4;
+}
+.shopingcar{
+  margin-top: 20px;
+  width: 100%;
+}
+.cartable{
+  width: 100%;
+  border-bottom: 2px solid #ccc;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.cartable tr th{
+  border-bottom: 2px solid #ccc;
+  padding: 15px 5px;
+  font-size: 15px;
+  font: inherit;
+}
+.txt1{
+  text-align: left;
+}
+.shopingbuy{
+  width: 100%;
+  clear: both;
+  text-align: center;
+  padding: 20px 0px;
+  font-size: 14px;
+  line-height: 30px;
+}
+.shopingbuy form{
+  display: block;
+  
+}
+
+.priceNo{
+  color: #197bc9;
+  font-size: 20px;
+  display: inline-block;
+  margin-left: 10px;
+}
+.btn{
+  display: inline-block;
+  width: 168px;
+  height: 30px;
+  color: #fff;
+  line-height: 30px;
+  vertical-align: middle;
+  text-align: center;
+  background: #7fa6c5;
+  margin-top: 5px;
+  border: none;
+}
+.return{
+  font-size: 14px;
+  color: #404040;
+  width: 60px;
+  padding: 0 54px;
+  display: inline-block;
+  margin-top: 15px;
+  position: relative;
+  overflow: hidden;
+}
+.return span{
+  border: 1px solid #404040;
+  border-left:none;
+  border-right:none;
+  border-bottom:none;
+  display: inline-block;
+  position: absolute;
+  width:54px;
+  top:15px;
+}
+.linel{
+  left: 0;
+}
+.liner{
+  right: 0;
+}
+.return a{
+  color: #404040;
+}

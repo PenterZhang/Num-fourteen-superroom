@@ -1,0 +1,28 @@
+.show{
+  display: block;
+  z-index: 11;
+}
+.light{
+  color: #fff !important;
+}
+.bg1{
+  background: #292f34 !important;
+}
+.bg2{
+  background: #2e353d !important;
+}
+.borderb{
+  border-bottom: #25292e solid 4px; 
+}
+.opacitys{
+  opacity: 0.7;
+} 
+.light2{
+  color: #878787 !important;
+}
+.opacitys2{
+  opacity: 1 !important;
+} 
+.opacitys3{
+  opacity: 0.2;
+}
